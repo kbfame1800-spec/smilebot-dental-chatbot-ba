@@ -180,3 +180,22 @@ As a clinic manager, I want the chatbot to handle routine questions so that the 
 - Bot should reduce receptionist query load during peak hours.
 
 
+## 15. High-Level Process Flow (Business Workflow)
+
+This diagram shows how the patient, chatbot, receptionist, and appointment system interact end-to-end during booking, rescheduling, information queries, or cancellation.
+
+### Actors:
+- **Patient**
+- **Chatbot (SmileBot)**
+- **Receptionist / Clinic Staff**
+- **Appointment Management System**
+
+### Process Summary:
+1. Patient opens chatbot and selects the required service.
+2. Chatbot collects all required information.
+3. Chatbot validates inputs.
+4. Chatbot processes the request or routes information to the receptionist.
+5. Receptionist reviews (if needed) and updates the appointment system.
+6. Appointment system confirms booking/reschedule/cancellation.
+7. Chatbot sends final confirmation message to the patient.
+
