@@ -117,3 +117,66 @@ Kirti Bhalla
 - The browser-based demo should run without requiring installation.
 
 
+## 14. User Stories with Acceptance Criteria
+
+### **User Story 1: View Clinic Information**
+As a patient, I want to view basic clinic information so that I know the clinic hours, location, and services.
+
+**Acceptance Criteria**
+- Given a patient opens the chatbot, when they ask for clinic hours, then the bot must show correct operational hours.
+- When the patient asks for services, the bot must show a list of available dental services.
+- When the patient asks for location, the bot should display the clinic address and Google Maps link (if available).
+
+---
+
+### **User Story 2: Book an Appointment**
+As a patient, I want to book an appointment so that I can visit the clinic at a suitable time.
+
+**Acceptance Criteria**
+- Given a patient chooses “Book Appointment,” the bot must ask for name, phone number, and preferred time.
+- Bot must validate the phone number.
+- Bot must confirm if the chosen time is available.
+- Bot must show a “Booking Confirmed” message with appointment ID.
+
+---
+
+### **User Story 3: Reschedule Appointment**
+As a patient, I want to reschedule my existing appointment so that I can come at a more convenient time.
+
+**Acceptance Criteria**
+- Bot must ask for appointment ID and phone number.
+- If ID is valid, bot allows selection of a new time.
+- Bot must update the appointment.
+- Bot must send a confirmation message with new appointment details.
+
+---
+
+### **User Story 4: Cancel Appointment**
+As a patient, I want to cancel my appointment so that I can free up my schedule.
+
+**Acceptance Criteria**
+- Bot must ask for appointment ID and phone number.
+- If ID matches existing record, appointment is canceled.
+- Bot must display: "Your appointment has been canceled successfully."
+
+---
+
+### **User Story 5: Ask General Dental Care Questions**
+As a patient, I want to ask general dental care questions so that I can get instant knowledge without visiting the clinic.
+
+**Acceptance Criteria**
+- Bot should answer common queries like brushing tips, tooth pain, post-treatment care.
+- If the bot does not understand the query, it must show a fallback message.
+- Bot should offer a menu of topics.
+
+---
+
+### **User Story 6: Receptionist Productivity Tracking**
+As a clinic manager, I want the chatbot to handle routine questions so that the receptionist is free for high-value tasks.
+
+**Acceptance Criteria**
+- Bot should answer at least 60% of FAQs without human help.
+- Bot should log conversations for analytics.
+- Bot should reduce receptionist query load during peak hours.
+
+
