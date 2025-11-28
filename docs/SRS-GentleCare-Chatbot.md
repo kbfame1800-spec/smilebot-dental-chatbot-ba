@@ -9,6 +9,7 @@ Date: 2025
 Prepared by: Kirti Bhalla
 
 1. Introduction
+   
 1.1 Purpose
 
 This Software Requirements Specification (SRS) defines all functional and non-functional requirements for the GentleCare Dental Clinic AI Chatbot.
