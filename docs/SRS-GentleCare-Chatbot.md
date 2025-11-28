@@ -1,7 +1,11 @@
 Software Requirements Specification (SRS)
+
 Project: GentleCare Dental Clinic – AI Chatbot
+
 Version: 1.0
+
 Date: 2025
+
 Prepared by: Kirti Bhalla
 
 1. Introduction
