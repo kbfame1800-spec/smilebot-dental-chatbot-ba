@@ -3,6 +3,7 @@ Project: GentleCare Dental Clinic – AI Chatbot
 Version: 1.0
 Date: 2025
 Prepared by: Kirti Bhalla
+
 1. Introduction
 1.1 Purpose
 
@@ -33,7 +34,10 @@ Chatbot	AI-based conversational interface
 Appointment ID	Unique identifier for appointments
 User	Patient who interacts with the chatbot
 Admin/Receptionist	Clinic staff managing appointments
+
+
 2. Overall Description
+
 2.1 Product Perspective
 
 The chatbot is an independent module embedded in the clinic’s website via Voiceflow widget.
@@ -49,6 +53,7 @@ Voiceflow variable-based appointment storage
 Mock backend (future integration)
 
 2.2 Product Functions
+
 Primary Features
 
 Provide clinic information
@@ -99,7 +104,9 @@ Users enter correct appointment IDs
 Voiceflow components behave reliably
 
 3. System Requirements
+   
 3.1 Functional Requirements
+
 FR1: Provide Clinic Information
 
 The chatbot must respond to information queries.
