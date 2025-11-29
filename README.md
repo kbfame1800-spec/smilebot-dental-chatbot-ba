@@ -64,7 +64,7 @@ All Business Analysis documents are stored inside the /docs folder and linked he
 
 📝 1. Problem Statement
 
-👉 Problem_Statement.md
+👉 docs/Problem_Statement.md
 
 👥 2. Stakeholder Analysis
 
