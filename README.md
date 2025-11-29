@@ -117,7 +117,7 @@ All Business Analysis documents are stored inside the /docs folder and linked he
 
 [TO-BE Improved Workflow](images/)
 
-[Booking Appointment Flow](images/Book Appointmnt Flow.drawio.png)
+[Booking Appointment Flow](images/BookAppointmntFlow.drawio.png)
 
 [Rescheduling Flow](images/)
 
