@@ -62,35 +62,21 @@ This demo was built using Voiceflow and simulates a real dental clinic chatbot.
 
 All Business Analysis documents are stored inside the /docs folder and linked here for easy access.
 
-📝 1. [Problem Statement👉 Problem_Statement.md](docs/Problem_Statement.md)
+📝 1. [Problem Statement](docs/Problem_Statement.md)
 
-👥 2. Stakeholder Analysis
+👥 2. [Stakeholder Analysis](docs/stakeholder_analysis.md)
 
-[👉 stakeholder_analysis.md](docs/stakeholder_analysis.md)
+📌 3. [Business Requirements Document (BRD)](docs/BRD_GentleCare_SmileBot.md)
 
-📌 3. Business Requirements Document (BRD)
+⚙️ 4. [Functional Requirements](docs/functional_requirements.md)
 
-[👉 BRD_GentleCare_SmileBot.md](docs/BRD_GentleCare_SmileBot.md)
+🛡️ 5. [Functional + Non-Functional Requirements](docs/functional_and_nonfunctional_requirements.md)
 
-⚙️ 4. Functional Requirements
+📘 6. [SRS – Software Requirements Specification](docs/SRS-GentleCare-Chatbot.md)
 
-[👉 functional_requirements.md](docs/functional_requirements.md)
+🔄 7. [AS-IS & TO-BE Process Documentation](docs/AS-IS_TO-BE_Process.md)
 
-🛡️ 5. Functional + Non-Functional Requirements
-
-[👉 functional_and_nonfunctional_requirements.md](docs/functional_and_nonfunctional_requirements.md)
-
-📘 6. SRS – Software Requirements Specification
-
-[👉 SRS-GentleCare-Chatbot.md](docs/SRS-GentleCare-Chatbot.md)
-
-🔄 7. AS-IS & TO-BE Process Documentation
-
-[👉 AS-IS_TO-BE_Process.md](docs/AS-IS_TO-BE_Process.md)
-
-🗂️ 8. Use Case Document
-
-[👉 use_case_document.md](docs/use_case_document.md)
+🗂️ 8. [Use Case Document](docs/use_case_document.md)
 
 🧩 9. User Stories (two sets)
 
@@ -99,13 +85,9 @@ All Business Analysis documents are stored inside the /docs folder and linked he
 
 [👉 Simple story list: user-stories.md](docs/user-stories.md)
 
-🔍 10. System Workflow Description
+🔍 10. [System Workflow Description](docs/SRS-GentleCare-Chatbot.md)
 
-[👉 System_Workflow_Description.md](docs/SRS-GentleCare-Chatbot.md)
-
-🖼️ 11. Wireframes Description
-
-[👉 Wireframes_Description.md](docs/Wireframes_Description.md)
+🖼️ 11. [Wireframes Description](docs/Wireframes_Description.md)
 
 🖼️ Diagrams (From /images Folder)
 
