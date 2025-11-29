@@ -132,7 +132,10 @@ All prototype files are inside /prototype
 https://kbfame1800-spec.github.io/dental-chatbot-demo/ – contains the live demo link
 
 🏗️ Folder Structure
-smilebot-dental-chatbot-ba/docs/
+smilebot-dental-chatbot-ba/
+
+[Link Text](docs/Problem_Statement.md)
+docs/
    Problem_Statement.md
    stakeholder_analysis.md
    BRD_GentleCare_SmileBot.md
