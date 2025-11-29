@@ -1,235 +1,175 @@
-SmileBot – AI Chatbot for Dental Clinics (Business Analysis Project)
+🦷 SmileBot – AI Chatbot for GentleCare Dental Clinic
+End-to-End Business Analysis Case Study
 
-This repository contains a complete end-to-end Business Analysis case study for the SmileBot AI chatbot built for a dental clinic.
+This repository contains a complete Business Analyst project created for GentleCare Dental Clinic's AI-powered chatbot – “SmileBot.”
 
-* Project Includes
+The project demonstrates real-world BA documentation, including requirements gathering, process modeling, use cases, user stories, SRS, BRD, diagrams, and prototype design.
 
-  1. Problem Statement
+This is a portfolio-ready end-to-end BA case study built from scratch.
 
-  2. Stakeholder Analysis
+⭐ Project Purpose
 
-  3. Business Requirements
+This project showcases core Business Analyst skills:
 
-  4. Functional & Non-Functional Requirements
+Requirement gathering
 
-  5. AS-IS and TO-BE Process Flows
+Stakeholder analysis
 
-  6. Use Case Documentation
+Writing BRD & SRS
 
-  7. User Stories with Acceptance Criteria
+Creating AS-IS & TO-BE flows
 
-  8. Wireframes
+Designing use cases
 
-  9. Chatbot Demo Link & Screenshots
+Creating user stories
 
-* Purpose
+Process flow diagrams
 
-This project demonstrates core business analyst skills, including:requirements gathering, documentation, process modeling, structured thinking, and communication with stakeholders.
+Wireframe descriptions
 
-* Chatbot Demo Link
+Organizing documentation in a structured project
 
+Communicating solutions to stakeholders
+
+It represents how a BA would analyze and deliver a chatbot solution for a real dental clinic.
+
+🚀 Live Chatbot Demo
+
+👉 Try SmileBot here:
 https://kbfame1800-spec.github.io/dental-chatbot-demo/
 
-* Status
+This demo was built using Voiceflow and simulates a real dental clinic chatbot.
 
-Documentation is being prepared step by step as part of a full BA  project.
+🧠 What SmileBot Can Do
 
-* Tools Used
+Provide clinic timings, address, and services
 
-> GitHub
+Answer FAQs
 
-> Voiceflow
+Help patients book appointments
 
-> Draw.io / Excalidraw
+Reschedule appointments
 
-> Google Docs / Markdown
+Cancel appointments
 
-* Folder Structure
+Provide dental care suggestions
 
+Reduce receptionist workload
+
+Improve patient engagement
+
+📁 Project Documentation (Linked Files)
+
+All Business Analysis documents are stored inside the /docs folder and linked here for easy access.
+
+📝 1. Problem Statement
+
+👉 Problem_Statement.md
+
+👥 2. Stakeholder Analysis
+
+👉 stakeholder_analysis.md
+
+📌 3. Business Requirements Document (BRD)
+
+👉 BRD_GentleCare_SmileBot.md
+
+⚙️ 4. Functional Requirements
+
+👉 functional_requirements.md
+
+🛡️ 5. Functional + Non-Functional Requirements
+
+👉 functional_and_nonfunctional_requirements.md
+
+📘 6. SRS – Software Requirements Specification
+
+👉 SRS-GentleCare-Chatbot.md
+
+🔄 7. AS-IS & TO-BE Process Documentation
+
+👉 AS-IS_TO-BE_Process.md
+
+🗂️ 8. Use Case Document
+
+👉 use_case_document.md
+
+🧩 9. User Stories (two sets)
+
+👉 Full stories with acceptance criteria: User_Stories_with_Acceptance_Criteria.md
+
+👉 Simple story list: user-stories.md
+
+🔍 10. System Workflow Description
+
+👉 System_Workflow_Description.md
+
+🖼️ 11. Wireframes Description
+
+👉 Wireframes_Description.md
+
+🖼️ Diagrams (From /images Folder)
+High-Level Business Process Flow
+
+Current AS-IS Workflow
+
+TO-BE Improved Workflow
+
+Booking Appointment Flow
+
+Rescheduling Flow
+
+FAQ Flow
+
+Wireframe – Main Screen
+
+Workflow Diagram
+
+🧪 Prototype & Supporting Files
+
+All prototype files are inside /prototype
+
+chatbot_demo_link.txt – contains the live demo link
+
+presentation_slides.pdf (optional if you add later)
+
+🏗️ Folder Structure
 SmileBot-Dental-Clinic-Chatbot-BA-Case-Study/
-
 │
-├── README.md                                 # Main project documentation
-
+├── README.md
 │
-├── docs/                                      # Business analysis documentation
-│   ├── problem_statement.md                   # Defined business problem
-│   ├── stakeholder_analysis.md                # List of stakeholders & roles
-│   ├── requirement_gathering_notes.md         # Interview questions & BA notes
-│   ├── business_requirements_document.md      # BRD (Business Requirements)
-│   ├── use_case_document.md                   # Use cases & descriptions
-│   ├── functional_requirements.md             # Detailed functional specs
-│   └── non_functional_requirements.md         # NFRs (performance, usability)
-
+├── docs/
+│   ├── Problem_Statement.md
+│   ├── stakeholder_analysis.md
+│   ├── BRD_GentleCare_SmileBot.md
+│   ├── functional_requirements.md
+│   ├── functional_and_nonfunctional_requirements.md
+│   ├── SRS-GentleCare-Chatbot.md
+│   ├── AS-IS_TO-BE_Process.md
+│   ├── use_case_document.md
+│   ├── User_Stories_with_Acceptance_Criteria.md
+│   ├── user-stories.md
+│   ├── System_Workflow_Description.md
+│   ├── Wireframes_Description.md
 │
-├── diagrams/                                  # All diagrams (exported PNGs)
-│   ├── high_level_business_process_flow.png
-│   ├── chatbot_sequence_diagram.png
-│   ├── data_flow_diagram.png
-│   └── use_case_diagram.png
+├── images/
+│   ├── Book Appointmnt Flow.drawio.png
+│   ├── FAQs.drawio.png
+│   ├── Main Screen Frame.drawio.png
+│   ├── Reschedule.drawio.png
+│   ├── TO- BE flow.drawio.png
+│   ├── current flow.drawio.png
+│   ├── high level business process flow.drawio.png
+│   ├── workflow Diagram.drawio.png
 │
-
-├── voiceflow/                                 # Voiceflow conversational flow exports
-│   └── smilebot_flow.json                     # Voiceflow export (optional)
+├── prototype/
+│   ├── chatbot_demo_link.txt
+│   ├── presentation_slides.pdf (optional)
 │
+└── voiceflow/
+    └── smilebot_flow.json (optional)
 
-└── prototype/                                 # Demo links or prototype files
-    ├── chatbot_demo_link.txt                  # Voiceflow chatbot live link
-    └── presentation_slides.pdf                # Optional project presentation
+👩‍💼 Created By
 
-
-* Created by
 Kirti Bhalla
-
-
-##. Feature List
-
-### 1. Customer-Facing Features
-- Provide clinic timings, address, and available services.
-- Answer FAQs like pricing, procedures, insurance, and doctor availability.
-- Assist patients in booking appointments.
-- Collect patient details (name, phone, service).
-- Confirm or modify appointments.
-- Guide walk-in patients on peak hours and waiting time.
-- Provide emergency assistance guidance.
-
-### 2. System Logic / Functional Features
-- Detect intent: FAQ, appointment, follow-up.
-- Slot filling for appointment booking.
-- Error handling if user enters invalid data.
-- Conditional flows based on clinic hours.
-- Provide fallback message when intent not recognized.
-
-### 3. Integration & Backend Features (Current + Future Scope)
-- (Current) Fully functional conversation flow built in Voiceflow.
-- (Current) Data captured within Voiceflow for demo purposes.
-- (Future Scope) API integration to clinic calendar.
-- (Future Scope) Auto-confirmation via WhatsApp or SMS.
-- (Future Scope) Store appointments in a customer database or CRM.
-
-
-
-##. Non-Functional Requirements (NFRs)
-
-### 1. Usability
-- The chatbot should be easy to use for patients of all age groups.
-- Conversations must be simple, clear, and guided.
-- The chatbot must provide quick reply options for faster navigation.
-
-### 2. Performance
-- Responses should be generated within 1–2 seconds.
-- The system should handle multiple users at the same time without crashing.
-
-### 3. Reliability
-- The chatbot should maintain consistent responses across all supported platforms.
-- All conversation flows should have fallback handling to avoid dead ends.
-
-### 4. Availability
-- The chatbot should be available 24/7 for answering patient questions.
-- If using website embedding, the bot should load even during high-traffic hours.
-
-### 5. Scalability
-- System should support adding new intent categories (e.g., cosmetic dentistry, pediatric dentistry).
-- Architecture should allow integration with CRM, website, and appointment calendar in future.
-
-### 6. Security
-- The chatbot must not store sensitive customer data without encryption.
-- Communication between integrations (future API calls) must use HTTPS.
-- Any personally identifiable information collected must follow GDPR/DPDP compliance guidelines.
-
-### 7. Maintainability
-- Conversation steps should be modular in Voiceflow for easy updates.
-- Documentation should be updated whenever flows change.
-
-### 8. Compatibility
-- The chatbot should work across laptop, mobile browsers, and embedded website modes.
-- The browser-based demo should run without requiring installation.
-
-
-## User Stories with Acceptance Criteria
-
-### **User Story 1: View Clinic Information**
-As a patient, I want to view basic clinic information so that I know the clinic hours, location, and services.
-
-**Acceptance Criteria**
-- Given a patient opens the chatbot, when they ask for clinic hours, then the bot must show correct operational hours.
-- When the patient asks for services, the bot must show a list of available dental services.
-- When the patient asks for location, the bot should display the clinic address and Google Maps link (if available).
-
----
-
-### **User Story 2: Book an Appointment**
-As a patient, I want to book an appointment so that I can visit the clinic at a suitable time.
-
-**Acceptance Criteria**
-- Given a patient chooses “Book Appointment,” the bot must ask for name, phone number, and preferred time.
-- Bot must validate the phone number.
-- Bot must confirm if the chosen time is available.
-- Bot must show a “Booking Confirmed” message with appointment ID.
-
----
-
-### **User Story 3: Reschedule Appointment**
-As a patient, I want to reschedule my existing appointment so that I can come at a more convenient time.
-
-**Acceptance Criteria**
-- Bot must ask for appointment ID and phone number.
-- If ID is valid, bot allows selection of a new time.
-- Bot must update the appointment.
-- Bot must send a confirmation message with new appointment details.
-
----
-
-### **User Story 4: Cancel Appointment**
-As a patient, I want to cancel my appointment so that I can free up my schedule.
-
-**Acceptance Criteria**
-- Bot must ask for appointment ID and phone number.
-- If ID matches existing record, appointment is canceled.
-- Bot must display: "Your appointment has been canceled successfully."
-
----
-
-### **User Story 5: Ask General Dental Care Questions**
-As a patient, I want to ask general dental care questions so that I can get instant knowledge without visiting the clinic.
-
-**Acceptance Criteria**
-- Bot should answer common queries like brushing tips, tooth pain, post-treatment care.
-- If the bot does not understand the query, it must show a fallback message.
-- Bot should offer a menu of topics.
-
----
-
-### **User Story 6: Receptionist Productivity Tracking**
-As a clinic manager, I want the chatbot to handle routine questions so that the receptionist is free for high-value tasks.
-
-**Acceptance Criteria**
-- Bot should answer at least 60% of FAQs without human help.
-- Bot should log conversations for analytics.
-- Bot should reduce receptionist query load during peak hours.
-
-
-## High-Level Process Flow (Business Workflow)
-
-This diagram shows how the patient, chatbot, receptionist, and appointment system interact end-to-end during booking, rescheduling, information queries, or cancellation.
-
-### Actors:
-- **Patient**
-- **Chatbot (SmileBot)**
-- **Receptionist / Clinic Staff**
-- **Appointment Management System**
-
-### Process Summary:
-1. Patient opens chatbot and selects the required service.
-2. Chatbot collects all required information.
-3. Chatbot validates inputs.
-4. Chatbot processes the request or routes information to the receptionist.
-5. Receptionist reviews (if needed) and updates the appointment system.
-6. Appointment system confirms booking/reschedule/cancellation.
-7. Chatbot sends final confirmation message to the patient.
-
-
-###  High-Level Business Process Flow
-![High Level Process Flow](images/high level business process flow.drawio.png)
-
-
+Business Analyst – AI & Automation Projects
