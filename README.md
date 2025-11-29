@@ -64,7 +64,7 @@ All Business Analysis documents are stored inside the /docs folder and linked he
 
 📝 1. Problem Statement
 
-👉 docs/Problem_Statement.md
+👉 Problem_Statement.md
 
 👥 2. Stakeholder Analysis
 
@@ -138,28 +138,50 @@ SmileBot-Dental-Clinic-Chatbot-BA-Case-Study/
 │
 ├── README.md
 │
+
 ├── docs/
+
 │   ├── Problem_Statement.md
+
 │   ├── stakeholder_analysis.md
+
 │   ├── BRD_GentleCare_SmileBot.md
+
 │   ├── functional_requirements.md
+
 │   ├── functional_and_nonfunctional_requirements.md
+
 │   ├── SRS-GentleCare-Chatbot.md
+
 │   ├── AS-IS_TO-BE_Process.md
+
 │   ├── use_case_document.md
+
 │   ├── User_Stories_with_Acceptance_Criteria.md
+
 │   ├── user-stories.md
+
 │   ├── System_Workflow_Description.md
+
 │   ├── Wireframes_Description.md
 │
+
 ├── images/
+
 │   ├── Book Appointmnt Flow.drawio.png
+
 │   ├── FAQs.drawio.png
+
 │   ├── Main Screen Frame.drawio.png
+
 │   ├── Reschedule.drawio.png
+
 │   ├── TO- BE flow.drawio.png
+
 │   ├── current flow.drawio.png
+
 │   ├── high level business process flow.drawio.png
+
 │   ├── workflow Diagram.drawio.png
 │
 ├── prototype/
