@@ -62,9 +62,7 @@ This demo was built using Voiceflow and simulates a real dental clinic chatbot.
 
 All Business Analysis documents are stored inside the /docs folder and linked here for easy access.
 
-📝 1. Problem Statement
-
-[👉 Problem_Statement.md](docs/Problem_Statement.md)
+📝 1. [Problem Statement👉 Problem_Statement.md](docs/Problem_Statement.md)
 
 👥 2. Stakeholder Analysis
 
