@@ -80,56 +80,58 @@ All Business Analysis documents are stored inside the /docs folder and linked he
 
 🛡️ 5. Functional + Non-Functional Requirements
 
-👉 functional_and_nonfunctional_requirements.md
+[👉 functional_and_nonfunctional_requirements.md](docs/functional_and_nonfunctional_requirements.md)
 
 📘 6. SRS – Software Requirements Specification
 
-👉 SRS-GentleCare-Chatbot.md
+[👉 SRS-GentleCare-Chatbot.md](docs/SRS-GentleCare-Chatbot.md)
 
 🔄 7. AS-IS & TO-BE Process Documentation
 
-👉 AS-IS_TO-BE_Process.md
+[👉 AS-IS_TO-BE_Process.md](docs/AS-IS_TO-BE_Process.md)
 
 🗂️ 8. Use Case Document
 
-👉 use_case_document.md
+[👉 use_case_document.md](docs/use_case_document.md)
 
 🧩 9. User Stories (two sets)
 
-👉 Full stories with acceptance criteria: User_Stories_with_Acceptance_Criteria.md
+[👉 Full stories with acceptance criteria: User_Stories_with_Acceptance_Criteria.md](docs/User_Stories_with_Acceptance_Criteria.md)
 
-👉 Simple story list: user-stories.md
+
+[👉 Simple story list: user-stories.md](docs/user-stories.md)
 
 🔍 10. System Workflow Description
 
-👉 System_Workflow_Description.md
+[👉 System_Workflow_Description.md](docs/SRS-GentleCare-Chatbot.md)
 
 🖼️ 11. Wireframes Description
 
-👉 Wireframes_Description.md
+[👉 Wireframes_Description.md](docs/Wireframes_Description.md)
 
 🖼️ Diagrams (From /images Folder)
-High-Level Business Process Flow
 
-Current AS-IS Workflow
+[High-Level Business Process Flow](images/)
 
-TO-BE Improved Workflow
+[Current AS-IS Workflow](images/)
 
-Booking Appointment Flow
+[TO-BE Improved Workflow](images/)
 
-Rescheduling Flow
+[Booking Appointment Flow](images/Book Appointmnt Flow.drawio.png)
 
-FAQ Flow
+[Rescheduling Flow](images/)
 
-Wireframe – Main Screen
+[FAQ Flow](images/)
 
-Workflow Diagram
+[Wireframe – Main Screen](images/)
+
+[Workflow Diagram](images/)
 
 🧪 Prototype & Supporting Files
 
 All prototype files are inside /prototype
 
-https://kbfame1800-spec.github.io/dental-chatbot-demo/ – contains the live demo link
+[https://kbfame1800-spec.github.io/dental-chatbot-demo/] – contains the live demo link
 
 🏗️ Folder Structure
 smilebot-dental-chatbot-ba/
