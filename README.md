@@ -5,7 +5,7 @@ This repository contains a complete Business Analyst project created for GentleC
 
 The project demonstrates real-world BA documentation, including requirements gathering, process modeling, use cases, user stories, SRS, BRD, diagrams, and prototype design.
 
-This is a portfolio-ready end-to-end BA case study built from scratch.
+This is a  BA case study built from scratch.
 
 ⭐ Project Purpose:-
 
@@ -188,7 +188,7 @@ smilebot-dental-chatbot-ba/
    chatbot_demo_link.txt
 
 
-👩‍💼 Created By
+👩‍💼 Created By:-
 
 Kirti Bhalla
 Business Analyst – AI & Automation Projects
