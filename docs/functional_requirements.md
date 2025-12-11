@@ -12,7 +12,7 @@
 
     Requirement ID: FR-002
   
-    Description: Chatbot should allow patients to cancel an appointment by providing phone number +               appointment ID.
+    Description: Chatbot should allow patients to cancel an appointment by providing phone number +                            appointment ID.
   
     Rationale: Reduces receptionist workload and ensures proper verification.
   
@@ -20,10 +20,10 @@
 
 3. Reschedule Appointments
 
-  Requirement ID: FR-003
-  Description: Chatbot should allow patients to reschedule by providing phone number + appointment ID and new   preferred time.
-  Rationale: Supports flexibility for patients and reduces errors.
-  Priority: High
+    Requirement ID: FR-003
+    Description: Chatbot should allow patients to reschedule by providing phone number + appointment ID and                    new preferred time.
+    Rationale: Supports flexibility for patients and reduces errors.
+    Priority: High
 
 4. FAQ / General Information
 
