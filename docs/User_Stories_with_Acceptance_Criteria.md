@@ -1,23 +1,21 @@
 USER STORIES FOR SMILEBOT
 
   User Story 1: Book Appointment
-
-    Story:
-      As a patient, I want to book an appointment through the chatbot so that I can schedule a visit without        calling the clinic.
-
-    Acceptance Criteria:
   
-       Chatbot collects name, phone number, service type, and preferred date/time.
-       Chatbot confirms availability before finalizing.
-       Chatbot generates Appointment ID and confirms booking.
+  Story:
+   As a patient, I want to book an appointment through the chatbot so that I can schedule a visit without        calling the clinic.
+
+  Acceptance Criteria:
+   Chatbot collects name, phone number, service type, and preferred date/time.
+   Chatbot confirms availability before finalizing.
+   Chatbot generates Appointment ID and confirms booking.
 
   User Story 2: Cancel Appointment
 
-    Story:
+  Story:
      As a patient, I want to cancel my appointment through the chatbot so that I can avoid calling the clinic.
 
-    Acceptance Criteria:
-    
+  Acceptance Criteria:
      Chatbot verifies patient identity using phone number and Appointment ID.
      Chatbot confirms cancellation and updates the schedule.
      Chatbot notifies patient if the Appointment ID is invalid.
