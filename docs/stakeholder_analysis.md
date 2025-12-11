@@ -8,19 +8,19 @@
 | Business Analyst           | Project owner           | Document requirements, design flows, ensure clarity | High      | Requirement gathering, modeling, documentation                  |
 
 2. Stakeholder Classification (Power–Interest Matrix)
-> High Power, High Interest (Manage Closely)
-  Clinic Owner
-  Business Analyst
+   * High Power, High Interest (Manage Closely)
+     Clinic Owner
+     Business Analyst
 
-> High Power, Low Interest (Keep Satisfied)
-  Dentist / Doctor
+   * High Power, Low Interest (Keep Satisfied)
+     Dentist / Doctor
 
-> Low Power, High Interest (Keep Informed)
-  Receptionist
-  Patients
+   * Low Power, High Interest (Keep Informed)
+     Receptionist
+     Patients
 
-> Low Power, Low Interest (Monitor)
-  None for this project
+   * Low Power, Low Interest (Monitor)
+     None for this project
 
 3. Communication Plan
    
