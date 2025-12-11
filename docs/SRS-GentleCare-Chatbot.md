@@ -144,9 +144,13 @@ FR3: Appointment Rescheduling:>
    {Workflow}
    
    Step 1. User selects Reschedule Appointment
+   
    Step 2. Input Appointment ID
+   
    Step 3. System verifies ID
+   
    Step 4. Ask for new date & time
+
    Step 5. Confirm reschedule
 
 !Requirements!
@@ -255,8 +259,10 @@ FR6: Identity Verification
 
 6. Approval
 
-Role : Business Analyst	
-Name: Kirti
-Date: 10/12/2025
+   Role : Business Analyst
+
+   Name: Kirti
+
+   Date: 10/12/2025
 
 
