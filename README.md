@@ -92,76 +92,76 @@ All Business Analysis documents are stored inside the /docs folder and linked he
 🖼️ Diagrams (From /images Folder)
 
 
-[High-Level Business Process Flow](images/high_level_business_process_flow.drawio.png)
+   * [High-Level Business Process Flow](images/high_level_business_process_flow.drawio.png)
 
-[Current AS-IS Workflow](images/current_flow.drawio.png)
+   * [Current AS-IS Workflow](images/current_flow.drawio.png)
 
-[TO-BE Improved Workflow](images/TO-BE_flow.drawio.png)
+   * [TO-BE Improved Workflow](images/TO-BE_flow.drawio.png)
 
-[Booking Appointment Flow](images/Book_Appointmnt_Flow.drawio.png)
+   * [Booking Appointment Flow](images/Book_Appointmnt_Flow.drawio.png)
 
-[Rescheduling Flow](images/Reschedule.drawio.png)
+   * [Rescheduling Flow](images/Reschedule.drawio.png)
 
-[FAQ Flow](images/FAQs.drawio.png)
+   * [FAQ Flow](images/FAQs.drawio.png)
 
-[Wireframe – Main Screen](images/Main_Screen_Frame.drawio.png)
+   * [Wireframe – Main Screen](images/Main_Screen_Frame.drawio.png)
 
-[Workflow Diagram](images/workflow_Diagram.drawio.png)
+   * [Workflow Diagram](images/workflow_Diagram.drawio.png)
 
 🧪 Prototype & Supporting Files
 
-All prototype files are inside /prototype
+   All prototype files are inside /prototype
 
-[https://kbfame1800-spec.github.io/dental-chatbot-demo/](prototype/index.html) – contains the live demo link
+   [https://kbfame1800-spec.github.io/dental-chatbot-demo/](prototype/index.html) – contains the live demo link
 
 🏗️ Folder Structure:-
 
-smilebot-dental-chatbot-ba/
+Smilebot-BA-Study/
 
 /docs
 
-   Problem_Statement.md
+   i. Problem_Statement.md
    
-   stakeholder_analysis.md
+   ii. stakeholder_analysis.md
    
-   BRD_GentleCare_SmileBot.md
+   iii. BRD_GentleCare_SmileBot.md
    
-   functional_requirements.md
+   iv. functional_requirements.md
    
-   functional_and_nonfunctional_requirements.md
+   v. functional_and_nonfunctional_requirements.md
    
-   AS-IS_TO-BE_Process.md
+   vi. AS-IS_TO-BE_Process.md
    
-   System_Workflow_Description.md
+   vii. System_Workflow_Description.md
    
-   use_case_document.md
+   viii. use_case_document.md
    
-   User_Stories_with_Acceptance_Criteria.md
+   ix. User_Stories_with_Acceptance_Criteria.md
    
-   user-stories.md
+   x. user-stories.md
    
-   SRS-GentleCare-Chatbot.md
+   xi. SRS-GentleCare-Chatbot.md
    
-   Wireframes_Description.md
+   xii. Wireframes_Description.md
    
 
 /images
 
-   Book_Appointment_Flow.png
+   i. Book_Appointment_Flow.png
    
-   FAQs.png
+   ii. FAQs.png
    
-   Main_Screen_Frame.png
+   iii. Main_Screen_Frame.png
    
-   Reschedule.png
+   iv. Reschedule.png
    
-   TO-BE_Flow.png
+   v. TO-BE_Flow.png
    
-   current_Flow.png
+   vi. current_Flow.png
    
-   High-Level_Business_Process_Flow.png
+   vii. High-Level_Business_Process_Flow.png
    
-   Workflow_Diagram.png
+   viii. Workflow_Diagram.png
 
 /prototype
 
@@ -171,4 +171,5 @@ smilebot-dental-chatbot-ba/
 👩‍💼 Created By:-
 
 Kirti Bhalla
+
 Business Analyst – AI & Automation Projects
