@@ -114,12 +114,19 @@ Prepared by: Kirti
    FR2: Appointment Booking Workflow
 
       Step 1. User selects Book Appointment
+   
       Step 2. Provide name
+   
       Step 3. Provide phone number
+   
       Step 4. Provide preferred date & time
+   
       Step 5. Chatbot checks availability
+   
       Step 6. Appointment is created
+   
       Step 7. Appointment ID is generated
+   
       Step 8. Confirmation message is returned
 
    !Requirements!
@@ -155,9 +162,13 @@ FR3: Appointment Rescheduling:>
       { Workflow}
 
         Step 1. User chooses Cancel Appointment
+     
         Step 2. Enter Appointment ID
+     
         Step 3. System verifies record
+     
         Step 4. Appointment is deleted
+     
         Step 5. Confirmation message sent
 
  !Requirements!
