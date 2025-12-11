@@ -1,8 +1,11 @@
 1. Booking Appointments
 
   Requirement ID: FR-001
+  
   Description: Chatbot should allow patients to book appointments by collecting name, phone number, preferred   date/time, and type of service.
+  
   Rationale: Replaces manual phone calls and saves receptionist time.
+  
   Priority: High
 
 2. Cancel Appointments
