@@ -32,7 +32,7 @@
 | Patients     | Ongoing          | Chatbot interactions | Provide feedback, identify improvements     |
 | Developer    | Daily            | Chat / GitHub        | Flow improvements, testing updates          |
 
-4. Key Notes
+i. Key Notes
 
 Receptionist is the main source of real process knowledge.
 Clinic owner is the final decision-maker.
