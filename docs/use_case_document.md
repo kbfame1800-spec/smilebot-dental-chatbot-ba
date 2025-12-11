@@ -13,6 +13,7 @@ USE CASES FOR SMILEBOT
     Trigger: Patient selects “Book Appointment”
 
     Main Flow:
+  
       Chatbot asks for name
       Chatbot asks for phone number
       Chatbot asks for service type
