@@ -1,10 +1,10 @@
 Problem Statement — SmileBot (Dental Clinic Chatbot)
 
-1. Background
+I. Background
 
 The dental clinic currently handles all customer communication through walk-ins and phone calls managed by a single receptionist. This often leads to long waiting times, missed calls, and inconsistent responses to frequently asked questions. To improve patient experience and reduce manual workload, the clinic is exploring the use of an AI-powered chatbot (“SmileBot”) to assist with basic queries and appointment handling.
 
-2. The Problem
+II. The Problem
 
 Patients frequently contact the clinic for common queries such as clinic timings, available services, pricing, and appointment scheduling or rescheduling.Due to high call volume and limited staff, the receptionist is unable to answer every call immediately. This results in:
  * Missed appointment opportunities
@@ -13,7 +13,7 @@ Patients frequently contact the clinic for common queries such as clinic timings
  * Poor customer experience
  * Increased workload for staff
 
-3. Business Impact:-
+III. Business Impact:-
 
   The current system leads to:
    * Reduced patient satisfaction
@@ -22,7 +22,7 @@ Patients frequently contact the clinic for common queries such as clinic timings
    * Overdependence on receptionist availability
    * Lower operational productivity
 
-4. Project Goal / Objective:
+IV. Project Goal / Objective:
    
   To design and implement an AI-powered chatbot that:
    * Answers frequently asked questions (services, timings, clinic hours, dental care)
@@ -32,7 +32,7 @@ Patients frequently contact the clinic for common queries such as clinic timings
    * Reduces receptionist workload
    * Enhances patient experience and engagement
 
-5. Scope of the Project:
+V. Scope of the Project:
 
    In Scope
     * Chatbot interaction flow for FAQs
@@ -51,14 +51,14 @@ Patients frequently contact the clinic for common queries such as clinic timings
     * Deep medical diagnosis
     * Complex triage or emergency assistance
 
-6. Assumptions
+VI. Assumptions
 
   The clinic continues to be a walk-in + phone-based system.
    * Appointments booked via chatbot will be manually confirmed by the receptionist.
    * The chatbot will not replace the receptionist but will support them.
    * Users have basic internet and smartphone access.
 
-7. Constraints
+VII. Constraints
 
    * Budget limitations for advanced AI integrations
    * Receptionist availability for backend confirmation
