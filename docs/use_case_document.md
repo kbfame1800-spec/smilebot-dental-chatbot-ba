@@ -1,24 +1,24 @@
 USE CASES FOR SMILEBOT
 
-Use Case 1: Book Appointment
+* Use Case 1: Book Appointment
 
-ID: UC-001
+    ID: UC-001
 
-Actor: Patient
+    Actor: Patient
 
-Description: Patient books an appointment via chatbot
+    Description: Patient books an appointment via chatbot
 
-Preconditions: Patient has a valid phone number
+    Preconditions: Patient has a valid phone number
 
-Trigger: Patient selects “Book Appointment”
+    Trigger: Patient selects “Book Appointment”
 
-Main Flow:
-Chatbot asks for name
-Chatbot asks for phone number
-Chatbot asks for service type
-Chatbot asks for preferred date/time
-Chatbot checks availability
-Chatbot confirms appointment and generates Appointment ID
+    Main Flow:
+      Chatbot asks for name
+      Chatbot asks for phone number
+      Chatbot asks for service type
+      Chatbot asks for preferred date/time
+      Chatbot checks availability
+      Chatbot confirms appointment and generates Appointment ID
 
 Alternate Flow:
 If requested slot unavailable → Chatbot suggests next available time
